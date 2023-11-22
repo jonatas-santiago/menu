@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:ital,wght@1,500&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#menu-h {
+    list-style: none;
+    padding: 0;
+    background-color: black;
+
+}
+
+#menu-h li {
+    display: inline;
+    background-position: left center
+}
+
+#menu-h li a {
+color: white;
+display: inline-block;
+padding: 20px;
+text-decoration: none;
+}
+
+#menu-h li a:hover{
+    color: red;
+
+}
+
+.fist-section {
+    height: 100vh;
+    background-image: url(Captura\ de\ tela\ 2023-11-14\ 154016.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
